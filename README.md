@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
    ```bash
    git clone https://github.com/Deadends/goAuth
-   cd goauth
+   cd goAuth
    ```
 
 2. Create a `.env` file in the `internal/auth` directory with the following content:
